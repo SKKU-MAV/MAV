@@ -1,3 +1,2 @@
 # MAV
-# link
-https://sonah5009.github.io/MAV/
+ https://skku-mav.github.io/MAV/
