@@ -86,7 +86,6 @@
   /* float: center; */
   position: relative;
   display: inline-block;
-  z-index: -1;
 }
 
 .dropdown-menu {
@@ -104,4 +103,8 @@
 
 #content7 {
   display: none;
+}
+
+.side-drawer-mobile {
+  z-index: 1;
 }
