@@ -10,3 +10,8 @@ main p {
 .nav-color {
   color: rgb(74, 74, 255);
 }
+
+.section-padding {
+  padding-top: 2rem;
+  text-align: center;
+}
