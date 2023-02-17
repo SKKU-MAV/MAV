@@ -99,10 +99,10 @@ footer {
   color: var(--color-blue-600);
 }
 
-.section-padding {
+/* .section-padding {
   padding: 5% 5%;
 }
-
+ */
 
 
 /* 햄버거 */
@@ -147,7 +147,7 @@ footer {
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 500px) {
   #main-header nav {
     display: none;
   }
@@ -205,7 +205,7 @@ main p {
 }
 
 /*  */
-@media all and (orientation:portrait) {
+/* @media all and (orientation:portrait) {
   body {
     background: url(../images/mav_img_length.png) no-repeat fixed center;
     width: 100%;
@@ -214,4 +214,4 @@ main p {
   #videoBg {
     display: none;
   }
-}
+} */
