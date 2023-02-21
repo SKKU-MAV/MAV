@@ -1,6 +1,6 @@
 .subtitle {
   font-family: 'Paytone One', sans-serif;
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 main p {
@@ -9,6 +9,10 @@ main p {
 
 .nav-color {
   color: rgb(74, 74, 255);
-  
+}
+
+.section-padding {
+  padding-top: 2rem;
+  text-align: center;
 }
 
