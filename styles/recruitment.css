@@ -3,9 +3,9 @@
   font-size: 1.7rem;
 }
 
-#applyBtn a {
+#applyBtn button {
   margin-top: 3rem;
-  background-color: var(--color-blue-600);
+  background-color: var(--color-grey-400);
   border: none;
   border-radius: 8px;
   padding: 16px 24px;
@@ -18,8 +18,8 @@
   text-align: center;
 }
 
-#applyBtn a:hover {
-  background-color: var(--color-blue-300);
+#applyBtn button:hover {
+  background-color: var(--color-grey-600);
 }
 
 
