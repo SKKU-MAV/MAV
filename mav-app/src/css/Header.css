@@ -1,0 +1,36 @@
+
+.nav {
+  font-family: var(--font-Quicksand-Medium), sans-serif;
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%, rgba(0,0,0,0.7) 25%, rgba(0,0,0,0.6) 50%, rgba(0,0,0,0.4) 75%, rgba(0,0,0,0) 100%);
+  padding: 0 5%;
+}
+
+.nav a {
+  color: var(--color-white-0);
+  text-decoration: none;
+}
+
+.site-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  margin: 0 1rem;
+  font-family: var(--font-Quicksand-Medium), sans-serif;
+}
+
+.nav a:hover {
+  color: var(--color-blue-600);
+}

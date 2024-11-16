@@ -1,0 +1,13 @@
+#unity-activities1 {
+  width: 80%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.project-title {
+  text-align: center;
+  font-family: 'Paytone One', sans-serif;
+  font-size: 30px;
+  padding-bottom: 1%;
+}

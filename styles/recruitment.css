@@ -22,7 +22,6 @@
   background-color: var(--color-grey-600);
 }
 
-
 .listTitle {
   font-weight: 600;
   font-size: 2rem;
@@ -41,6 +40,13 @@
   padding: 10px;
 }
 
+.linkItem {
+  color: var(--color-blue-100);
+}
+.linkItem:hover {
+  color: var(--color-blue-600);
+}
+
 .section-padding {
   padding: 9rem 0;
   text-align: center;
@@ -52,7 +58,6 @@
 
 .section-middle {
   text-align: center;
-  
 }
 
 /* 모집 일정 */
@@ -66,7 +71,7 @@
   top: 0;
   left: 0;
   box-sizing: border-box;
-  
+
   /* background-color: var(--color-white-0) */
 }
 
@@ -100,9 +105,8 @@
     text-align: center;
   }
 
-
   .section-middle {
-    grid-template-columns: 1fr ;
+    grid-template-columns: 1fr;
   }
 
   .recruitment-box {
@@ -116,7 +120,6 @@
     padding: 0 30%;
     list-style: none;
     /* width: 100%; */
-    
   }
 
   .recruitment-box-item {
